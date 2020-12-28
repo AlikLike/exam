@@ -8,6 +8,6 @@ def main(n):
     return r
 
 if __name__ == '__main__':
-    print(main(1))
+    print(main(10))
     print(main(3))
     print(main(5))
